@@ -441,3 +441,5 @@ https://youhui.95516.com/newsign/public/app/index.html url script-request-header
 #photonmang
 #途虎养车
 https://api.tuhu.cn/User/GetUserCurrentAndNextGradeInfo url script-request-header https://raw.githubusercontent.com/photonmang/quantumultX/master/tuhu/tuhu.Cookie.js
+
+#https://raw.githubusercontent.com/Orz-3/QuantumultX/master/JS_GetCookie.conf
