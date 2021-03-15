@@ -286,8 +286,6 @@ https:\/\/ios\.baertt\.com\/v5\/user\/app_stay\.json url script-request-body htt
 #mydigit
 id=k_misign:sign&operation=qiandao&format=text url script-request-header https://raw.githubusercontent.com/Sunert/Scripts/master/Task/mydigit.js
 
-#jingxi
-https:\/\/wq\.jd\.com\/pgcenter\/sign\/QueryPGDetail\?sceneval=2&pageSize=20 url script-request-header https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jingxi.js
 
 #iepngs
 #dingdong
