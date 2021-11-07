@@ -1,1 +1,10 @@
+# > 个人规则
 
+DOMAIN,images-news.now.com,Proxy
+DOMAIN-SUFFIX,xvideos.red,GlobalTV
+DOMAIN-SUFFIX,thestandnews.com,Proxy
+DOMAIN-SUFFIX,lihkg.com,Proxy
+DOMAIN-SUFFIX,api.themoviedb.org,Proxy
+DOMAIN-SUFFIX,easyintnet.com,Proxy
+DOMAIN-SUFFIX,mdiaload.com,DIRECT,notification-text="mdiaload.comDIRECT Downloading…"
+DOMAIN-SUFFIX,hk01.com,Proxy
